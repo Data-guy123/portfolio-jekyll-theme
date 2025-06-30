@@ -6,7 +6,7 @@ permalink: /about
 
 # About Me
 
-Hi, I’m Joseph Wright, based in Heathfield, East Sussex, UK. I work in R&D systems management at Reckitt, where I help make complex project tools easier to use and more effective for innovation teams.
+Hi, I’m Joe Wright, based in Heathfield, East Sussex, UK. I work in R&D systems management at Reckitt, where I help make complex project tools easier to use and more effective for innovation teams.
 
 I recently completed the Professional Certificate in Data Analytics from Imperial College, focusing on practical ways to turn data into insights that actually help people.
 
