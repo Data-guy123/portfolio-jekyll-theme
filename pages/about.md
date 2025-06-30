@@ -4,6 +4,13 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About Me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Hi, I’m Joseph Wright, based in Heathfield, East Sussex, UK. I work in R&D systems management at Reckitt, where I help make complex project tools easier to use and more effective for innovation teams.
+
+I recently completed the Professional Certificate in Data Analytics from Imperial College, focusing on practical ways to turn data into insights that actually help people.
+
+When I’m not working, I spend my time adventuring, rollerblading, weightlifting, and having fun with my two boys, Isaac and Arlo. They’re full of energy and imagination, which keeps life interesting.
+
+I enjoy problem solving, improving systems, and making things work better through data and creativity.
+
